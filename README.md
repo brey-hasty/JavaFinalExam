@@ -61,4 +61,4 @@
  ## Challenge Yourself
  1. Write 2 Unit tests for the class *StudentService*
  2. Write 2 Unit tests for the class *CourseService*
- 3. Remember that this will involve setting up your testing environment! (Refer to instructions shared in the student slack channel if you need them)
+ 3. Remember that this will involve setting up your testing environment! (Refer to instructions shared in the student slack channel if you need them)# JavaFinalExam
